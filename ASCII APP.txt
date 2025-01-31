@@ -1,0 +1,17 @@
+package my_project;
+
+public class MyClass {
+	public static void main(String[] args) {
+		
+		int randomInt = (int) Math.floor(Math.random() * 256);
+		String randomIntBin = Integer.toBinaryString(randomInt);
+		String randomIntHex = Integer.toHexString(randomInt);
+		
+		System.out.println("Random number generated!\n");
+		System.out.println("In decimal: " + randomInt);
+		System.out.println("In binary: " + randomIntBin);
+		System.out.println("In hexadecimal: " + randomIntHex);
+		System.out.println("Corresponding ASCII: " + (char)randomInt);
+
+	}
+}

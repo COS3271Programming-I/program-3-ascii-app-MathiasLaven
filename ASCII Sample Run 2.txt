@@ -1,0 +1,6 @@
+Random number generated!
+
+In decimal: 130
+In binary: 10000010
+In hexadecimal: 82
+Corresponding ASCII: 

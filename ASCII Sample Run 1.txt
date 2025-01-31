@@ -1,0 +1,6 @@
+Random number generated!
+
+In decimal: 115
+In binary: 1110011
+In hexadecimal: 73
+Corresponding ASCII: s
